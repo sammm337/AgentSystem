@@ -1,0 +1,9 @@
+flask
+pydantic
+pymongo
+requests
+pika
+opencv-python-headless
+numpy
+pydantic-settings
+qdrant-client

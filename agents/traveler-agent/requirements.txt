@@ -1,0 +1,9 @@
+flask
+pydantic
+pydantic-settings
+pymongo
+requests
+pika
+qdrant-client
+sentence-transformers
+

@@ -1,0 +1,13 @@
+flask
+pydantic
+pydantic-settings
+pymongo
+requests
+pika
+opencv-python-headless
+qdrant-client
+sentence-transformers
+assemblyai
+ffmpeg-python
+pillow
+
